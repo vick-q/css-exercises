@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(160, 11, 73);
+    font-family: "dejavu sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#the-one {
+    color: rgb(16, 128, 219);
+    font-size: 36px;
+}
+
+#the-second {
+    background-color: rgb(14, 197, 14);
+    font-size: 24px;
+    font-weight: bold;
+}
